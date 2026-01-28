@@ -1,0 +1,1 @@
+Dummy Text Line to practice creating a new txt file using Git Bash
